@@ -5,10 +5,6 @@ import heroes from './heroes.json'
 import Wrapper from './components/Wrapper'
 import Title from './components/Title'
 
-
-
-class App extends Component {
-
   class App extends Component {
     state = {
         message: "Click an image to begin!",
@@ -42,7 +38,7 @@ class App extends Component {
             });
         }
         else {
-            // success to select a new dog
+            // success choose hero
             const newHeroes = this.state.unselectedHeroes.filter(item => item.hero !== hero);
             
             this.setState({ 
@@ -59,11 +55,7 @@ class App extends Component {
     render() {
       return (
           <Wrapper>
-              <Navpills
-                  message={this.state.message}
-                  curScore={this.state.curScore}
-                  topScore={this.state.topScore}
-              />
+              
               <Title />
               {
                   this.state.heroes.map(hero => (

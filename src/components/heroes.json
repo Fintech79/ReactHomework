@@ -1,71 +1,71 @@
 [
   {
     "id": 1,
-    "name": "Roudey Ronda",
-    "image": "C:/Users/Abdel-Rahman/my-app/public/assets/images/_rowdy__ronda_rousey_by_wildcard24-d6558de.jpg",
+    "name": "Rousey Ronda",
+    "image": ".assets/images/_rowdy__ronda_rousey_by_wildcard24-d6558de.jpg",
     "occupation": "Fighter",
     "location": "WWE"
   },
   {
     "id": 2,
     "name": "Anderson Sliva",
-    "image": "C:/UsersAbdel-Rahman/my-app/public/assets/images/0649aeb0ea4c41f2235c6037bd22d34c.jpg",
+    "image": ".assets/images/0649aeb0ea4c41f2235c6037bd22d34c.jpg",
     "occupation": "Nike Athlete",
     "location": "Variable"
   },
   {
     "id": 3,
     "name": "SqoukshBJJMAN",
-    "image": "C:/Users/Abdel-Rahman/my-app/public/assets/images/big-bjj.jpg",
+    "image": ".assets/images/big-bjj.jpg",
     "occupation": "Legendary",
     "location": "Oregon"
   },
   {
     "id": 4,
     "name": "Dexter",
-    "image": "C:/Users/Abdel-Rahman/my-app/public/assets/images/classic-cartoon-vector1.jpg",
+    "image": ".assets/images/classic-cartoon-vector1.jpg",
     "occupation": "onClick",
     "location": "HQ"
   },
   {
     "id": 5,
     "name": "MJ",
-    "image": "C:/Users/Abdel-Rahman/my-app/public/assets/images/michael-jordan-001.png",
+    "image": ".assets/images/michael-jordan-001.png",
     "occupation": "His Airness",
     "location": "BobcatLand"
   },
   {
     "id": 6,
     "name": "Popeye",
-    "image": "C:/Users/Abdel-Rahman/my-app/public/assets/images/Popeye-oldest-cartoon-characters.jpg",
+    "image": ".assets/images/Popeye-oldest-cartoon-characters.jpg",
     "occupation": "Sailor",
     "location": "San Diego"
   },
   {
     "id": 7,
     "name": "Jacare",
-    "image": "C:/Users/Abdel-Rahman/my-app/public/assets/images/romeo_kumar_ronaldo_jacare_souza_by_romeokumar-d9636by.jpg",
+    "image": ".assets/images/romeo_kumar_ronaldo_jacare_souza_by_romeokumar-d9636by.jpg",
     "occupation": "Aligator",
     "location": "Las Vegas"
   },
   {
     "id": 8,
     "name": "Malcolm X",
-    "image": "C:/Users/Abdel-Rahman/my-app/public/assets/images/screenshot1.png",
+    "image": ".assets/images/screenshot1.png",
     "occupation": "Leader",
     "location": "Heaven"
   },
   {
     "id": 9,
     "name": "Taz",
-    "image": "C:/Users/Abdel-Rahman/my-app/public/assets/images/tasmanian-devil.jpg",
+    "image": ".assets/images/tasmanian-devil.jpg",
     "occupation": "Adventurer",
     "location": "California"
   },
   {
     "id": 10,
     "name": "Lebron",
-    "image": "C:/Users/Abdel-Rahman/my-app/public/assets/images/th.jpg",
+    "image": ".assets/images/th.jpg",
     "occupation": "King",
     "location": "Akron"
   }
